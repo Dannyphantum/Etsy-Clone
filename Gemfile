@@ -13,6 +13,7 @@ gem "figaro"
 gem "mini_magick"
 gem 'carrierwave'
 gem 'cloudinary'
+gem "figaro"
 
 group :production do
   gem 'pg'
