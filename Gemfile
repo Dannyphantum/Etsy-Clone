@@ -14,6 +14,7 @@ gem "mini_magick"
 gem 'carrierwave'
 gem 'cloudinary'
 gem "figaro"
+gem 'devise'
 
 group :production do
   gem 'pg'
